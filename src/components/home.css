@@ -1,0 +1,306 @@
+#imgslide{
+    width: 100%;
+    height: 449px;
+}
+
+.contentabout{
+    position: relative;
+}
+.contentservice{
+    position: relative;
+}
+.contentclient{
+    position: relative;
+}
+.contentcontact{
+    position: relative;
+}
+.contentapplication{
+    position: relative;
+}
+.contentconsulting{
+    position: relative;
+}
+.contenttraining{
+    position: relative;
+}
+
+.contentlogin{
+    position: relative;
+}
+
+h3.about {
+    position: absolute;
+    top: 40px;
+    left: 97px;
+    color: white;
+    font-size: 22px;
+}
+
+.content-container {
+    display: flex;
+    align-items: center;
+    width: 89%;
+    margin:20px;
+}
+.content-container-consult {
+    display: flex;
+    align-items: center;
+    width: 89%;
+    margin: 20px;
+    margin-bottom: 196px;
+}
+.content-container-service {
+    display: flex;
+    align-items: center;
+    width: 89%;
+    margin:20px;
+    margin-bottom: 116px;
+}
+  
+.paragraph {
+    flex: 1; 
+    text-align: justify;
+    font-size: 13px;
+    line-height: 21px;
+    color: #505050;
+    margin: 0px 5px;
+  }
+
+.paragraphconsult {
+    flex: 1; 
+    text-align: justify;
+    font-size: 13px;
+    line-height: 21px;
+    color: #505050;
+    margin: 0px 5px;
+}
+  
+img.aboutimage {
+    width: 100%;
+    height: 150px;
+}
+
+img.perksysinc {
+    margin-left: 81px;
+    box-shadow: 0 10px 6px -6px #777;
+}
+img.manipic {
+    margin-left: 81px;
+    box-shadow: 0 10px 6px -6px #777;
+}
+.sidebyside {
+    display: flex;
+    width: 81%;
+    margin-left: 100px;
+    padding-top: 22px;
+}
+  
+.paragraph1 {
+    flex: 1; 
+    text-align: justify;
+    font-size: 13px;
+    line-height: 21px;
+    margin: 10px 20px 10px 100px;
+    color: #505050;
+  }
+
+#serviceimg{
+   padding: 10px 10px 10px 100px;
+  }
+
+.servicelinks a {
+    text-decoration: none;
+    color: #035683;
+  }
+
+p.paraperk {
+    text-align: justify;
+    font-size: 13px;
+    line-height: 21px;
+    padding-top: 7px;
+    color: #505050;
+}
+
+.clientpara {
+    margin: 23px 168px 20px 85px;
+}
+
+.vertical {
+    color: #035683;
+}
+
+ul.listitems {
+    text-align: justify;
+    font-size: 13px;
+    line-height: 21px;
+    padding-top: 0px;
+    margin-bottom: 44px;
+    color: #505050;
+}
+
+.googlemap {
+    display: flex;
+}
+.address {
+    margin: 28px 38px;
+    list-style-type: none;
+}
+h3.contacthead {
+    font-size: 22px;
+    color: #505050;
+}
+
+li.listdetails {
+    padding: 9px;
+    color: #4f4f4f;
+    font-size: 16px;
+}
+
+.contact-form {
+    margin: -45px 119px 55px;
+}
+
+/* services icons */
+
+.services-section {
+    display: flex;
+    justify-content: space-around;
+    background-color: #007bff;
+    color: white;
+    margin-top: -5px;
+    height: 178px;
+}
+
+.subHeading {
+    margin-bottom: 10px;
+}
+
+.service {
+    flex: 1;
+    text-align: left;
+    padding: 20px;
+    margin: 0 10px;
+    margin-bottom: 10px;
+}
+
+.service-title {
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    margin-right: 10px;
+    color: white;
+}
+
+.itservice{
+    text-align: justify;
+    font-size: 13px;
+    line-height: 21px;
+    /* padding-top: 7px; */
+    margin: 3px 46px  0px 2px;
+}
+
+input#contactinput {
+    margin: 11px 2px;
+    width: 298px;
+    padding: 11px;
+    color: #333333;
+    border-radius: 5px;
+    border: 1px solid #DDDDDD;
+  outline: none;
+}
+textarea#contactinput {
+    color: #333333;
+    border-radius: 5px;
+    width: 976px;
+    height: 79px;
+    border: 1px solid #DDDDDD;
+    outline: none;
+}
+
+button#contactbutton {
+    margin: 32px;
+    width: 187px;
+    padding: 9px;
+    background: #035683;
+    color: #ffff;
+    border: none;
+    border-radius: 5px;
+    font-size: 22px;
+}
+
+input#contactinput:focus, textarea#contactinput:focus {
+    box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+    border: 1px solid rgba(81, 203, 238, 1);
+  }
+
+.loginform {
+    text-align: center;
+}
+
+input#logininput {
+    width: 216px;
+    padding: 8px 23px;
+    margin: 10px;
+}
+button.buttonlogin {
+    width: 266px;
+    padding: 7px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+.inputform {
+    box-shadow: 2px 2px 3px rgba(0,0,0,.25);
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+    max-width: 269px;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 55px;
+    padding: 26px 45px 43px 26px;
+}
+.inputform i {
+    position: absolute;
+    left: 43px;;
+    top: 45px;
+    color: #333333;
+}
+.loginform{
+    max-width:400px;
+    margin:auto;
+}
+h4.loginheading {
+    color: #505050;
+}
+i.fa.fa-lock {
+    margin: 55px 0px;
+    color: #333333;
+}
+
+.training-page {
+    margin: 92px;
+    margin-top: -162px;
+}
+
+h1.ourtraininghead {
+    color: #035683;
+    font-size: 19px;
+}
+
+ul.listtraining {
+    text-align: justify;
+    font-size: 13px;
+    line-height: 21px;
+    padding-top: 7px;
+}
+
+h1.trainingsbelow {
+    font-size: 19px;
+}
+
+span.techno {
+    color: #035683;
+}
