@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Perksys/static/css/main.4932b605.css",
+    "main.js": "/Perksys/static/js/main.d5e445dd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Perksys/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Laptop.jpg": "/Perksys/static/media/Laptop.3ea371093b11ea1c9898.jpg",
+    "static/media/HomeView.jpg": "/Perksys/static/media/HomeView.9d40ea531c97f1d2dca8.jpg",
+    "static/media/LaptopOld.jpg": "/Perksys/static/media/LaptopOld.efb98a94f8910e3a39a1.jpg",
+    "static/media/ApplicationDevelopment-1.jpg": "/Perksys/static/media/ApplicationDevelopment-1.7ae8261b5c6b2e3f974d.jpg",
+    "static/media/clients.jpg": "/Perksys/static/media/clients.b97776549d5319f381da.jpg",
+    "static/media/perksysinc.jpg": "/Perksys/static/media/perksysinc.a15a10485ab2cd1e8b59.jpg",
+    "static/media/our-approach.jpg": "/Perksys/static/media/our-approach.03e6d164ad39b9cde04d.jpg",
+    "static/media/consulting.jpg": "/Perksys/static/media/consulting.e68e526f1595dcff72d7.jpg",
+    "static/media/application.jpg": "/Perksys/static/media/application.6b98253b289a556d1c33.jpg",
+    "static/media/servicefinal.jpg": "/Perksys/static/media/servicefinal.cab99857bb45703267a7.jpg",
+    "static/media/contact.jpg": "/Perksys/static/media/contact.199f47ed0b077bc018e7.jpg",
+    "static/media/aboutus12.jpg": "/Perksys/static/media/aboutus12.51118ed0217c8d64bf02.jpg",
+    "static/media/training1.jpg": "/Perksys/static/media/training1.b5bf24015a30d9699e40.jpg",
+    "static/media/services.jpg": "/Perksys/static/media/services.4ce8c04e574dfdcb4bc8.jpg",
+    "static/media/ApplicationDevelopment.jpg": "/Perksys/static/media/ApplicationDevelopment.70aa984fee45718c850c.jpg",
+    "static/media/mainpic.jpg": "/Perksys/static/media/mainpic.85344f96b6ab3a901cf3.jpg",
+    "static/media/login1.jpg": "/Perksys/static/media/login1.a8777186384be9787b5b.jpg",
+    "index.html": "/Perksys/index.html",
+    "main.4932b605.css.map": "/Perksys/static/css/main.4932b605.css.map",
+    "main.d5e445dd.js.map": "/Perksys/static/js/main.d5e445dd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Perksys/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4932b605.css",
+    "static/js/main.d5e445dd.js"
+  ]
+}
