@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import laptopImage1 from 'Laptop.jpg';
-import laptopImage2 from 'LaptopAncient.jpg';
-import laptopImage3 from 'LaptopOld.jpg';
-import laptopImage4 from 'HomeView.jpg';
+import laptopImage1 from './Laptop.jpg';
+import laptopImage2 from './LaptopAncient.jpg';
+import laptopImage3 from './LaptopOld.jpg';
+import laptopImage4 from './HomeView.jpg';
 import './home.css';
 
 const images = [laptopImage1, laptopImage2, laptopImage3, laptopImage4];
