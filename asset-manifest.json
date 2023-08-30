@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Perksys/static/css/main.4932b605.css",
+    "main.css": "/Perksys/static/css/main.957612c7.css",
     "main.js": "/Perksys/static/js/main.36710b90.js",
     "static/js/787.28cb0dcd.chunk.js": "/Perksys/static/js/787.28cb0dcd.chunk.js",
     "static/media/Laptop.jpg": "/Perksys/static/media/Laptop.3ea371093b11ea1c9898.jpg",
@@ -21,12 +21,12 @@
     "static/media/mainpic.jpg": "/Perksys/static/media/mainpic.85344f96b6ab3a901cf3.jpg",
     "static/media/login1.jpg": "/Perksys/static/media/login1.a8777186384be9787b5b.jpg",
     "index.html": "/Perksys/index.html",
-    "main.4932b605.css.map": "/Perksys/static/css/main.4932b605.css.map",
+    "main.957612c7.css.map": "/Perksys/static/css/main.957612c7.css.map",
     "main.36710b90.js.map": "/Perksys/static/js/main.36710b90.js.map",
     "787.28cb0dcd.chunk.js.map": "/Perksys/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4932b605.css",
+    "static/css/main.957612c7.css",
     "static/js/main.36710b90.js"
   ]
 }
